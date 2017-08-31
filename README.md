@@ -1,1 +1,1 @@
-# 基于python3的tkinter学习笔记
+# 基于python3 tkinter的学习笔记
